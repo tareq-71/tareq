@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @iizam7
-- 👀 I’m interested in Computer Science and Electrical Engineering
-- 🌱 I’m currently learning web development and new area's of coding
-- 💞️ I’m looking to collaborate on ...
+- Hi, I’m @iizam7
+- I’m interested in Computer Science and Electrical Engineering
+- I’m currently learning web development and new areas of coding
 - 📫 How to reach me kshkoukani@outlook.com
 
 <!---
