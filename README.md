@@ -1,7 +1,6 @@
-- Hi, I’m @iizam7
-- I’m interested in Computer Science and Electrical Engineering
-- I’m currently learning web development and new areas of coding
-- 📫 How to reach me kshkoukani@outlook.com
+- Hello, I’m Tareq Shkoukani
+- I am currently a student at The Ohio State University studying Electrical and Computer Engineering 
+- 📫 How to reach me kshkoukani@outlook.com (personal email) or shkoukani.12@osu.edu (school email)
 
 <!---
 iizam7/iizam7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
